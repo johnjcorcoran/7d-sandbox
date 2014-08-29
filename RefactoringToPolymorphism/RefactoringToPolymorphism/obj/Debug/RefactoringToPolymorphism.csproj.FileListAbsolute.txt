@@ -1,0 +1,7 @@
+c:\users\johnc\code\sandbox\RefactoringToPolymorphism\RefactoringToPolymorphism\RefactoringToPolymorphism\obj\Debug\RefactoringToPolymorphism.csprojResolveAssemblyReference.cache
+c:\users\johnc\code\sandbox\RefactoringToPolymorphism\RefactoringToPolymorphism\RefactoringToPolymorphism\bin\Debug\RefactoringToPolymorphism.dll
+c:\users\johnc\code\sandbox\RefactoringToPolymorphism\RefactoringToPolymorphism\RefactoringToPolymorphism\bin\Debug\RefactoringToPolymorphism.pdb
+c:\users\johnc\code\sandbox\RefactoringToPolymorphism\RefactoringToPolymorphism\RefactoringToPolymorphism\bin\Debug\nunit.framework.dll
+c:\users\johnc\code\sandbox\RefactoringToPolymorphism\RefactoringToPolymorphism\RefactoringToPolymorphism\bin\Debug\nunit.framework.xml
+c:\users\johnc\code\sandbox\RefactoringToPolymorphism\RefactoringToPolymorphism\RefactoringToPolymorphism\obj\Debug\RefactoringToPolymorphism.dll
+c:\users\johnc\code\sandbox\RefactoringToPolymorphism\RefactoringToPolymorphism\RefactoringToPolymorphism\obj\Debug\RefactoringToPolymorphism.pdb
